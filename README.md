@@ -19,3 +19,5 @@
 
 ### Notes
 Describe any challenges encountered while building the app.
+
+Creating the superhero tab was harder then I thought it would be. I had small errors that was hard to fix
